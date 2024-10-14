@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "title": "Camiseta Deportiva",
+    "description": "Camiseta deportiva de alta calidad, perfecta para entrenamientos.",
+    "code": "CAM-001",
+    "price": 25.99,
+    "status": true,
+    "stock": 100,
+    "category": "Ropa Deportiva",
+    "thumbnails": [
+      "images/camiseta1.jpg",
+      "images/camiseta1_2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Zapatillas Running",
+    "description": "Zapatillas ligeras para corredores de alto rendimiento.",
+    "code": "ZAP-002",
+    "price": 89.99,
+    "status": true,
+    "stock": 50,
+    "category": "Calzado",
+    "thumbnails": [
+      "images/zapatillas1.jpg",
+      "images/zapatillas1_2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Mochila Escolar",
+    "description": "Mochila espaciosa con múltiples compartimentos.",
+    "code": "MOC-003",
+    "price": 35.5,
+    "status": true,
+    "stock": 120,
+    "category": "Accesorios",
+    "thumbnails": [
+      "images/mochila1.jpg",
+      "images/mochila1_2.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Auriculares Bluetooth",
+    "description": "Auriculares inalámbricos con sonido de alta fidelidad.",
+    "code": "AUR-004",
+    "price": 59.99,
+    "status": true,
+    "stock": 80,
+    "category": "Tecnología",
+    "thumbnails": [
+      "images/auriculares1.jpg",
+      "images/auriculares1_2.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Lentes de Sol",
+    "description": "Lentes de sol con protección UV y diseño moderno.",
+    "code": "LEN-005",
+    "price": 19.99,
+    "status": true,
+    "stock": 200,
+    "category": "Accesorios",
+    "thumbnails": [
+      "images/lentes1.jpg",
+      "images/lentes1_2.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Silla Ergonómica",
+    "description": "Silla de oficina ergonómica con soporte lumbar ajustable.",
+    "code": "SIL-006",
+    "price": 150,
+    "status": true,
+    "stock": 30,
+    "category": "Muebles",
+    "thumbnails": [
+      "images/silla1.jpg",
+      "images/silla1_2.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Smartwatch",
+    "description": "Reloj inteligente con monitor de frecuencia cardíaca.",
+    "code": "SMA-007",
+    "price": 120,
+    "status": true,
+    "stock": 60,
+    "category": "Tecnología",
+    "thumbnails": [
+      "images/smartwatch1.jpg",
+      "images/smartwatch1_2.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Bicicleta de Montaña",
+    "description": "Bicicleta de montaña con suspensión doble.",
+    "code": "BIC-008",
+    "price": 399.99,
+    "status": true,
+    "stock": 15,
+    "category": "Deportes",
+    "thumbnails": [
+      "images/bicicleta1.jpg",
+      "images/bicicleta1_2.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Botella Térmica",
+    "description": "Botella térmica que mantiene bebidas frías por 24 horas.",
+    "code": "BOT-009",
+    "price": 22,
+    "status": true,
+    "stock": 300,
+    "category": "Accesorios",
+    "thumbnails": [
+      "images/botella1.jpg",
+      "images/botella1_2.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Tablet 10 pulgadas",
+    "description": "Tablet de 10 pulgadas con pantalla HD y gran capacidad de almacenamiento.",
+    "code": "TAB-010",
+    "price": 220,
+    "status": true,
+    "stock": 40,
+    "category": "Tecnología",
+    "thumbnails": [
+      "images/tablet1.jpg",
+      "images/tablet1_2.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Cafetera de Cápsulas",
+    "description": "Cafetera compatible con cápsulas para preparar café de forma rápida.",
+    "code": "CAF-011",
+    "price": 75.5,
+    "status": true,
+    "stock": 90,
+    "category": "Electrodomésticos",
+    "thumbnails": [
+      "images/cafetera1.jpg",
+      "images/cafetera1_2.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Mouse Inalámbrico",
+    "description": "Mouse inalámbrico con sensor óptico y diseño ergonómico.",
+    "code": "MOU-012",
+    "price": 18,
+    "status": true,
+    "stock": 150,
+    "category": "Tecnología",
+    "thumbnails": [
+      "images/mouse1.jpg",
+      "images/mouse1_2.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Libro de Cocina",
+    "description": "Libro de recetas para preparar platos saludables.",
+    "code": "LIB-013",
+    "price": 12.99,
+    "status": true,
+    "stock": 70,
+    "category": "Libros",
+    "thumbnails": [
+      "images/libro1.jpg",
+      "images/libro1_2.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Set de Ollas",
+    "description": "Juego de ollas de acero inoxidable con tapas de vidrio.",
+    "code": "OLL-014",
+    "price": 85,
+    "status": true,
+    "stock": 25,
+    "category": "Cocina",
+    "thumbnails": [
+      "images/ollas1.jpg",
+      "images/ollas1_2.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Almohada Ortopédica",
+    "description": "Almohada con espuma de memoria para un soporte adecuado del cuello.",
+    "code": "ALM-015",
+    "price": 35,
+    "status": true,
+    "stock": 110,
+    "category": "Hogar",
+    "thumbnails": [
+      "images/almohada1.jpg",
+      "images/almohada1_2.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Set de Pinceles para Maquillaje",
+    "description": "Set de 10 pinceles profesionales para maquillaje.",
+    "code": "PIN-016",
+    "price": 29.99,
+    "status": true,
+    "stock": 75,
+    "category": "Belleza",
+    "thumbnails": [
+      "images/pinceles1.jpg",
+      "images/pinceles1_2.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Plancha de Vapor",
+    "description": "Plancha de vapor para eliminar arrugas de forma rápida.",
+    "code": "PLA-017",
+    "price": 45,
+    "status": true,
+    "stock": 55,
+    "category": "Electrodomésticos",
+    "thumbnails": [
+      "images/plancha1.jpg",
+      "images/plancha1_2.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Lampara de Escritorio LED",
+    "description": "Lámpara con luz ajustable y diseño moderno.",
+    "code": "LAM-018",
+    "price": 28.99,
+    "status": true,
+    "stock": 95,
+    "category": "Hogar",
+    "thumbnails": [
+      "images/lampara1.jpg",
+      "images/lampara1_2.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Kit de Herramientas",
+    "description": "Kit de 30 herramientas básicas para reparaciones en el hogar.",
+    "code": "HER-019",
+    "price": 65,
+    "status": true,
+    "stock": 45,
+    "category": "Hogar",
+    "thumbnails": [
+      "images/herramientas1.jpg",
+      "images/herramientas1_2.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Reloj de Pared Vintage",
+    "description": "Reloj de pared con estilo vintage y números grandes.",
+    "code": "REL-020",
+    "price": 40,
+    "status": true,
+    "stock": 20,
+    "category": "Decoración",
+    "thumbnails": [
+      "images/reloj1.jpg",
+      "images/reloj1_2.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Chaqueta de Cuero",
+    "description": "Chaqueta de cuero auténtico, resistente y moderna.",
+    "code": "CHA-021",
+    "price": 120,
+    "status": true,
+    "stock": 35,
+    "category": "Ropa",
+    "thumbnails": [
+      "images/chaqueta1.jpg",
+      "images/chaqueta1_2.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Sombrero de Playa",
+    "description": "Sombrero de ala ancha, perfecto para protegerse del sol.",
+    "code": "SOM-022",
+    "price": 15,
+    "status": true,
+    "stock": 130,
+    "category": "Accesorios",
+    "thumbnails": [
+      "images/sombrero1.jpg",
+      "images/sombrero1_2.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Juego de Cucharas Medidoras",
+    "description": "Juego de cucharas de acero inoxidable para medir ingredientes.",
+    "code": "CUC-023",
+    "price": 12.5,
+    "status": true,
+    "stock": 85,
+    "category": "Cocina",
+    "thumbnails": [
+      "images/cucharas1.jpg",
+      "images/cucharas1_2.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Tijeras de Jardinería",
+    "description": "Tijeras afiladas para podar plantas y arbustos.",
+    "code": "TIJ-024",
+    "price": 22.99,
+    "status": true,
+    "stock": 50,
+    "category": "Jardinería",
+    "thumbnails": [
+      "images/tijeras1.jpg",
+      "images/tijeras1_2.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Barra de Sonido",
+    "description": "Barra de sonido para mejorar la experiencia de audio en casa.",
+    "code": "BAR-025",
+    "price": 199.99,
+    "status": true,
+    "stock": 25,
+    "category": "Tecnología",
+    "thumbnails": [
+      "images/barra1.jpg",
+      "images/barra1_2.jpg"
+    ]
+  }
+]
